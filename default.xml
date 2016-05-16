@@ -36,10 +36,10 @@
 <!-- BEGIN Kraken -->
   <project path="manifest" name="manifest" remote="oct-mm" revision="oct-mm" />
   
-  <project name="platform_kernel_lge_g3" path="kernel/lge/g3" remote="oct-mm" revision="oct-mm" />
-  <project name="platform_kernel_motorola_msm8974" path="kernel/motorola/msm8974" remote="oct-mm" revision="oct-mm" />
-  <project name="platform_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="oct-mm" revision="oct-mm" />
-  <project name="platform_kernel_samsung_d2" path="kernel/samsung/d2" remote="oct-mm" revision="oct-mm" />
+  <project name="kraken_kernel_lge_g3" path="kernel/lge/g3" remote="oct-mm" revision="oct-mm" />
+  <project name="kraken_kernel_motorola_msm8974" path="kernel/motorola/msm8974" remote="oct-mm" revision="oct-mm" />
+  <project name="kraken_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="oct-mm" revision="oct-mm" />
+  <project name="kraken_kernel_samsung_d2" path="kernel/samsung/d2" remote="oct-mm" revision="oct-mm" />
 <!-- END Kraken -->
 
 <!-- BEGIN TOOLCHAINS -->
