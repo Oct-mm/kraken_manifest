@@ -34,7 +34,7 @@
            sync-j="4" />
 
 <!-- BEGIN Kraken -->
-  <project path="manifest" name="manifest" remote="oct-mm" revision="oct-mm" />
+  <project path="manifest" name="kraken_manifest" remote="oct-mm" revision="oct-mm" />
   
   <project name="kraken_kernel_lge_g3" path="kernel/lge/g3" remote="oct-mm" revision="oct-mm" />
   <project name="kraken_kernel_motorola_msm8974" path="kernel/motorola/msm8974" remote="oct-mm" revision="oct-mm" />
