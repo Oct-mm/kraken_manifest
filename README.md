@@ -1,0 +1,2 @@
+# manifest
+kraken kernel manifest
