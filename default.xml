@@ -24,7 +24,7 @@
 
   <remote  name="oct-mm"
            fetch="https://github.com/Oct-mm/"
-           revision="refs/heads/oct-mm"
+           revision="oct-mm"
            sync-c="true"
            sync-j="4" />
 
