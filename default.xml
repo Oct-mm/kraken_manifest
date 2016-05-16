@@ -24,7 +24,6 @@
 
   <remote  name="oct-mm"
            fetch="https://github.com/Oct-mm/"
-           review="review.teamoctos.com"
            revision="refs/heads/oct-mm"
            sync-c="true"
            sync-j="4" />
